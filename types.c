@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Integers
+    // Integers hehe
     int positive = 10;
     int negative = -10;
     unsigned int positiveOnly = 20;
